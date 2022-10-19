@@ -1,6 +1,4 @@
-﻿# AdviceHealthChallenge
-
-## Fazer no cmd
+﻿## Fazer no cmd
 
 ```sh
 # Criar env
@@ -9,7 +7,7 @@ python -m venv nome_da_env
 # Ativar env
 .\venv\Scripts\activate.bat
 
-# Instalar depedências
+# Instalar depedências do projeto
 pip install -r requirements.txt
 
 # Setar o flask
@@ -20,6 +18,3 @@ flask db init
 flask db migrate
 flask db upgrade
 ```
-
-
-obs: Desafio incompleto
