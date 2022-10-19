@@ -18,3 +18,10 @@ flask db init
 flask db migrate
 flask db upgrade
 ```
+
+This project was developed with the following technologies:
+
+-  [Python](https://docs.python.org/3/)
+-  [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+-  [SQLAlchemy](https://www.sqlalchemy.org/)
+-  [PostgreSQL](https://www.postgresql.org/)
